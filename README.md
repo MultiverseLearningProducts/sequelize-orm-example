@@ -4,6 +4,8 @@
 
 Knowing the ORM pattern learn to use the most popular SQL ORM avaliable for Node.js - [Sequelize](https://www.npmjs.com/package/sequelize). This is a day to practice and consolidate what you have learnt this week.
 
+![UML diagram](https://user-images.githubusercontent.com/4499581/95730438-274d8c80-0c76-11eb-9aef-7c8f395afcce.png)
+
 ----
 
 ## Lesson 1 - Sequelize
